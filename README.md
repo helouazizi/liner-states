@@ -14,7 +14,7 @@ The exercise requires you to create a program that reads numerical data from a f
     git clone https://github.com/helouazizi/liner-states.git
 2. Navigate to the project directory:
     ```bash
-    cd  linear-stats
+    cd  liner-states
 ### how to use
 
 1. Download the required folder from the intra:
