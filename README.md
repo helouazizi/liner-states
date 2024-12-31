@@ -4,14 +4,14 @@ The exercise requires you to create a program that reads numerical data from a f
 
 ## Author
 
-- **Hassan El ouazizi** [GitHub Profile](https://github.com/helouaziz)
+- **Hassan El ouazizi** [GitHub Profile](https://github.com/helouazizi)
 
 ## Usage
 
 ### Instalation
 1. Clone the repository:
    ```bash
-    git clone https://github.com/helouaziz/linear-stats.git
+    git clone https://github.com/helouazizi/linear-stats.git
 2. Navigate to the project directory:
     ```bash
     cd  linear-stats
