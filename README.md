@@ -11,7 +11,7 @@ The exercise requires you to create a program that reads numerical data from a f
 ### Instalation
 1. Clone the repository:
    ```bash
-    git clone https://github.com/helouaziz/liner-states.git
+    git clone https://github.com/helouazizi/liner-states.git
 2. Navigate to the project directory:
     ```bash
     cd  linear-stats
