@@ -95,9 +95,9 @@ If the Pearson correlation coefficient is **-0.85**, it suggests a **strong nega
 
 Together, these two concepts are fundamental for understanding relationships between variables in data analysis and machine learning.
 ## 5.Author
-Ismail Hajji
+El oauzizi Hassan
 
- **[Gitea](https://learn.zone01oujda.ma/git/ihajji)**
+ **[Gitea](https://learn.zone01oujda.ma/git/helouaziz)**
 
-**[github](https://github.com/hajji-Ismail)**
+**[github](https://github.com/helouazizi)**
 
